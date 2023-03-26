@@ -1,0 +1,3 @@
+# Graphql-Typegraphql BoilerPlate
+
+
